@@ -27,7 +27,7 @@ Em uma pequena cidade do interior de **Iowa**, o fazendeiro **Tex Willer** nos p
 Diante desse desafio, a **FarmTech Solutions** propôs uma abordagem inovadora: um sistema de visão computacional que monitora o milharal em tempo real, identificando automaticamente a presença das raposas. Sempre que uma é detectada, um alarme é acionado, permitindo ao fazendeiro tomar medidas preventivas sem a necessidade de vigilância constante. 
 
 Nosso objetivo é desenvolver uma solução eficiente, utilizando tecnologia de ponta para proteger a produção agrícola sem prejudicar a fauna local. 
-
+![teste](https://github.com/Vitor-coder-eng/Despertar_da_rede_neural/blob/main/assets/photo%2039.png)
 
 ## 📋 Licença
 
