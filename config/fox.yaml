@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/computervision/images/train/
+val: /content/drive/MyDrive/computervision/images/val/
+
+names: # Definindo as labels do dataset
+  0: "Fox"
+  1: "Corn"
+  # ...
