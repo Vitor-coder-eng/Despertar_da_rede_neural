@@ -20,14 +20,27 @@
 
 ## 📜 Descrição
 
-# Sistema de visão computacional para detecção de raposas em milharal
+## Sistema de visão computacional para detecção de raposas em milharal
 
 Em uma pequena cidade do interior de **Iowa**, o fazendeiro **Tex Willer** nos procurou com um problema inusitado. Ele notou que sua plantação de milho estava sendo alvo frequente de raposas furtivas, que entravam sorrateiramente à noite e destruíam parte de sua colheita. Embora tenha tentado espantar os animais com métodos convencionais, como cercas e espantalhos, as raposas parecem não ter se incomodado e continuaram causando prejuízos. 
 
 Diante desse desafio, a **FarmTech Solutions** propôs uma abordagem inovadora: um sistema de visão computacional que monitora o milharal em tempo real, identificando automaticamente a presença das raposas. Sempre que uma é detectada, um alarme é acionado, permitindo ao fazendeiro tomar medidas preventivas sem a necessidade de vigilância constante. 
 
 Nosso objetivo é desenvolver uma solução eficiente, utilizando tecnologia de ponta para proteger a produção agrícola sem prejudicar a fauna local. 
+
 ![teste](https://github.com/Vitor-coder-eng/Despertar_da_rede_neural/blob/main/assets/Fox.png)
+
+##  
+
+Confira uma breve explicação do projeto dividido em 4 vídeos linkados abaixo:  
+
+[Entrega 1](https://youtu.be/xxx)
+
+[Entrega 2](https://youtu.be/xxx)
+
+[Ir Além 1](https://youtu.be/xxx)
+
+[Ir Além 2](https://youtu.be/xxx)
 
 ## 📁 Estrutura de pastas
 
