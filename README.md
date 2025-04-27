@@ -34,13 +34,13 @@ Nosso objetivo é desenvolver uma solução eficiente, utilizando tecnologia de 
 
 Confira uma breve explicação do projeto dividido em 4 vídeos linkados abaixo:  
 
-[Entrega 1](https://youtu.be/xxx)
+[Entrega 1](https://www.youtube.com/watch?v=bUZxK_KzA7k)
 
-[Entrega 2](https://youtu.be/xxx)
+[Entrega 2](https://www.youtube.com/watch?v=RozLAvEh15w)
 
-[Ir Além 1](https://youtu.be/xxx)
+[Ir Além 1](https://www.youtube.com/watch?v=1rK8AX7rH-g)
 
-[Ir Além 2](https://youtu.be/xxx)
+[Ir Além 2](https://www.youtube.com/watch?v=lmQaG01-WO8)
 
 ## 📁 Estrutura de pastas
 
