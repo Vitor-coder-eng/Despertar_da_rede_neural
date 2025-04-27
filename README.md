@@ -29,6 +29,24 @@ Diante desse desafio, a **FarmTech Solutions** propôs uma abordagem inovadora: 
 Nosso objetivo é desenvolver uma solução eficiente, utilizando tecnologia de ponta para proteger a produção agrícola sem prejudicar a fauna local. 
 ![teste](https://github.com/Vitor-coder-eng/Despertar_da_rede_neural/blob/main/assets/Fox.png)
 
+## 📁 Estrutura de pastas
+
+Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
+
+- **assets**: Pasta destinada ao armazenamento de arquivos estáticos, como imagens dos gráficos desenvolvidos ou outros recursos visuais usados no projeto.
+- **config**: Arquivo `.yaml` gerado no Make Sense AI e o arquivo `requirements.txt`.
+- **document**: Contém os documentos do projeto, como os arquivos `.ipynb` com as análises desenvolvidas.
+- **models**: Contém o arquivo `best.pt`, o modelo treinado gerado a partir da "Entrega 1".
+- **src**: Pasta destinada ao armazenamento do arquivo `.py`, código fonte ultilizado no "Ir além 1".
+- **.github**: Pasta vazia, destinada a arquivos de configuração e automação específicos para o GitHub, que não se aplica a este projeto.
+- **README.md**: Arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora). 
+- **scripts**: Pasta vazia, Scripts auxiliares para tarefas específicas do projeto, que não se aplica a este projeto.
+
+  ## 🗃 Histórico de lançamentos
+
+* 0.5.0 - xx/04/2025
+* 1.0.0 - 26/04/2025
+
 ## 📋 Licença
 
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
