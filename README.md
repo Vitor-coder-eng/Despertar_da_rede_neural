@@ -30,17 +30,16 @@ Nosso objetivo é desenvolver uma solução eficiente, utilizando tecnologia de 
 
 ![teste](https://github.com/Vitor-coder-eng/Despertar_da_rede_neural/blob/main/assets/Fox.png)
 
-##  
 
-Confira uma breve explicação do projeto dividido em 4 vídeos linkados abaixo:  
+## Confira abaixo uma tabela com os acessos aos vídeos explicativos e seus respectivos Jupyter Notebooks:
 
-[Entrega 1](https://www.youtube.com/watch?v=bUZxK_KzA7k)
+| Etapa         | Vídeo Explicativo                                           | Jupyter Notebook                                      |
+|---------------|-------------------------------------------------------------|-----------------------------------------------|
+| Entrega 1     | [Ver vídeo](https://www.youtube.com/watch?v=bUZxK_KzA7k)    | [Acesse aqui](https://colab.research.google.com/github/Vitor-coder-eng/Despertar_da_rede_neural/blob/main/document/Entrega_1.ipynb)        |
+| Entrega 2     | [Ver vídeo](https://www.youtube.com/watch?v=RozLAvEh15w)    | [Acesse aqui](https://colab.research.google.com/github/Vitor-coder-eng/Despertar_da_rede_neural/blob/main/document/Entrega_2.ipynb)        |
+| Ir Além 1     | [Ver vídeo](https://www.youtube.com/watch?v=1rK8AX7rH-g)    | [Acesse aqui](https://colab.research.google.com/github/Vitor-coder-eng/Despertar_da_rede_neural/blob/main/document/Ir_Além_1.ipynb)        |
+| Ir Além 2     | [Ver vídeo](https://www.youtube.com/watch?v=lmQaG01-WO8)    | [Acesse aqui](https://colab.research.google.com/github/Vitor-coder-eng/Despertar_da_rede_neural/blob/main/document/Ir_Além_2.ipynb)        |
 
-[Entrega 2](https://www.youtube.com/watch?v=RozLAvEh15w)
-
-[Ir Além 1](https://www.youtube.com/watch?v=1rK8AX7rH-g)
-
-[Ir Além 2](https://www.youtube.com/watch?v=lmQaG01-WO8)
 
 ## 📁 Estrutura de pastas
 
